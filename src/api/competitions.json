@@ -1,0 +1,41 @@
+{
+  "competitions": [
+    {
+      "id": "1",
+      "name": "Hackathon",
+      "fees": "100",
+      "date": "10/04/2023",
+      "participants": 10,
+      "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page"
+    },
+    {
+      "id": "2",
+      "name": "Meet & Greet",
+      "fees": "30",
+      "date": "01/04/2023",
+      "participants": 0,
+      "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page"
+    },
+    {
+      "name": "Pipeline-4twin6",
+      "price": "12",
+      "nbTickets": "1121212",
+      "nbParticipants": "131D",
+      "id": "ANKBS3b"
+    },
+    {
+      "name": "aza",
+      "price": "da",
+      "nbTickets": "11",
+      "nbParticipants": "111",
+      "id": "fVcenCo"
+    },
+    {
+      "name": "Pipeline-4twin6",
+      "price": "2024-03-14",
+      "nbTickets": "11",
+      "nbParticipants": "ZRZR",
+      "id": "DUOr6tl"
+    }
+  ]
+}
